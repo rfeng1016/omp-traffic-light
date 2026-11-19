@@ -1,0 +1,8 @@
+.DS_Store
+OmpTrafficLight
+runtime/
+*.log
+state.json
+preferences.json
+hook.log
+
