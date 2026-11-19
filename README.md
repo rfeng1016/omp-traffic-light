@@ -30,7 +30,7 @@ macOS 桌面悬浮红绿灯，用来显示 omp 当前工作状态。
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/omp-traffic-light.git
+git clone https://github.com/rfeng1016/omp-traffic-light.git
 cd omp-traffic-light
 
 ./build.command                  # 编译 Swift 悬浮窗 → ./OmpTrafficLight
